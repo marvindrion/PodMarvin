@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
 
   s.author             = { "marvindrion" => "email@address.com" }
  
-   s.source       = { :git => "https://raw.githubusercontent.com/marvindrion/PodMarvin/master/PodMarvin/", :commit => "4fac2452d31cd2a082d9bec3fb040a6ad33c3a3f" }
+   s.source       = { :git => "https://raw.githubusercontent.com/marvindrion/PodMarvin.git"}
 
   s.source_files  = "/*.m"
   s.exclude_files = "Classes/Exclude"
