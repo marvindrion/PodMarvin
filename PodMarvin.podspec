@@ -11,7 +11,6 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/marvindrion/PodMarvin"
 
   s.license      = "PodMarv"
-
   s.author             = { "marvindrion" => "email@address.com" }
  
    s.source       = { :git => "https://github.com/marvindrion/PodMarvin"}
